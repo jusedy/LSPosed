@@ -61,11 +61,8 @@ You can contribute translation [here](https://lsposed.crowdin.com/lsposed).
 - [Dobby](https://github.com/jmpews/Dobby): used for inline hooking
 - [LSPlant](https://github.com/LSPosed/LSPlant): the core ART hooking framework
 - [EdXposed](https://github.com/ElderDrivers/EdXposed): fork source
-- ~[SandHook](https://github.com/ganyao114/SandHook/): ART hooking framework for SandHook variant~
-- ~[YAHFA](https://github.com/rk700/YAHFA): previous ART hooking framework~
-- ~[dexmaker](https://github.com/linkedin/dexmaker) and [dalvikdx](https://github.com/JakeWharton/dalvik-dx): to dynamically generate YAHFA hooker classes~
-- ~[DexBuilder](https://github.com/LSPosed/DexBuilder): to dynamically generate YAHFA hooker classes~
+- ~[SandHook]
 
 ## License
 
-LSPosed is licensed under the **GNU General Public License v3 (GPL-3)** (http://www.gnu.org/copyleft/gpl.html).
+LSPosed
